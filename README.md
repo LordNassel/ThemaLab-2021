@@ -3,14 +3,22 @@ ThemaLaboratory CodeWork for BME VIK TMIT 2021/2022/1
 
 
 
-
+# Plotting Data
 ![Plotting Data](https://github.com/LordNassel/ThemaLab-2021/blob/main/mriPictures.png)
+
+# Distribution of Data
 ![Distribution of Data](https://github.com/LordNassel/ThemaLab-2021/blob/main/bar.png)
+
+# Training and Validation Resulst after Learning
 ![Training and Validation Results](https://github.com/LordNassel/ThemaLab-2021/blob/main/tariningValidation.png)
+
+# Layers of Neural Network Representation
 ![NN Representation 1](https://github.com/LordNassel/ThemaLab-2021/blob/main/netFig1.png)
 ![NN Representation 2](https://github.com/LordNassel/ThemaLab-2021/blob/main/netFig2.png)
 ![NN Representation 3](https://github.com/LordNassel/ThemaLab-2021/blob/main/netFig3.png)
 ![NN Representation 4](https://github.com/LordNassel/ThemaLab-2021/blob/main/netFig4.png)
+
+#Heatmap of the Confusion Matrix
 ![Heatmap of the Confusion Matrix](https://github.com/LordNassel/ThemaLab-2021/blob/main/confusionMatrix.png)
 
 The dataset can be loaded from:
