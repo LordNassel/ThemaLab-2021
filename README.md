@@ -18,16 +18,16 @@ ThemaLaboratory CodeWork for BME VIK TMIT 2021/2022/1
 ![NN Representation 3](https://github.com/LordNassel/ThemaLab-2021/blob/main/netFig3.png)
 ![NN Representation 4](https://github.com/LordNassel/ThemaLab-2021/blob/main/netFig4.png)
 
-#Heatmap of the Confusion Matrix
+# Heatmap of the Confusion Matrix
 ![Heatmap of the Confusion Matrix](https://github.com/LordNassel/ThemaLab-2021/blob/main/confusionMatrix.png)
 
-The dataset can be loaded from:
+# The dataset can be loaded from:
 https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri
 
-How to use Kaggle API to download dataset:
+# How to use Kaggle API to download dataset:
 https://www.kaggle.com/docs/api
 
-The following sources were used to create the code:
+# The following sources were used to create the code:
 https://keras.io/applications/
 https://www.kaggle.com/onuraydere/braintumorcnn
 https://www.kaggle.com/erkamk/brain-tumor-classification
