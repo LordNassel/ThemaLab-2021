@@ -1,7 +1,9 @@
 # ThemaLab-2021
 ThemaLaboratory CodeWork for BME VIK TMIT 2021/2022/1
 
-
+# CopyRight Disclaimer
+The source code in this repository is primarly based on:
+https://colab.research.google.com/drive/14z10KIlQnh1x0oHm0vcoQDWI9JyISUkM?usp=sharing
 
 # Plotting Data
 ![Plotting Data](https://github.com/LordNassel/ThemaLab-2021/blob/main/mriPictures2.png)
