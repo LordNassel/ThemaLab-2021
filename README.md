@@ -4,7 +4,7 @@ ThemaLaboratory CodeWork for BME VIK TMIT 2021/2022/1
 
 
 # Plotting Data
-![Plotting Data](https://github.com/LordNassel/ThemaLab-2021/blob/main/mriPictures.png)
+![Plotting Data](https://github.com/LordNassel/ThemaLab-2021/blob/main/mriPictures2.png)
 
 # Distribution of Data
 ![Distribution of Data](https://github.com/LordNassel/ThemaLab-2021/blob/main/bar.png)
@@ -19,7 +19,7 @@ ThemaLaboratory CodeWork for BME VIK TMIT 2021/2022/1
 ![NN Representation 4](https://github.com/LordNassel/ThemaLab-2021/blob/main/netFig4.png)
 
 # Heatmap of the Confusion Matrix
-![Heatmap of the Confusion Matrix](https://github.com/LordNassel/ThemaLab-2021/blob/main/confusionMatrix.png)
+![Heatmap of the Confusion Matrix](https://github.com/LordNassel/ThemaLab-2021/blob/main/confusionMatrix2.png)
 
 # The dataset can be loaded from:
 https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri
